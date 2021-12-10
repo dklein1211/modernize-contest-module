@@ -19,9 +19,6 @@ Install dependencies:
 ```
 npm i
 ```
-```
-npm i vite
-```
 
 ### Run
 ```
